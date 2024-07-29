@@ -38,7 +38,8 @@
 <br>
 
 ## 내 풀이
-
+Time Complexity: O(n^2)  
+Space Complexity: O(1)
 ```python
 # chatGPT에게 refactoring만 받음
 
