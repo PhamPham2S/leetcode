@@ -1,5 +1,5 @@
 # [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)
-### Array | Dynamic Programming | Binary Indexed Tree
+### Dynamic Programming
 ###### 2024-07-29
 
 <br>
