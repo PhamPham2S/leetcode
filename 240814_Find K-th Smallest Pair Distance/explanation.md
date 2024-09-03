@@ -32,7 +32,7 @@ list에서 두 요소를 뽑았을 때 그 차이가 임의의 수 `m`보다 작
 <br>
 
 # ✅ 정답
-Time Complexity: `O(nlogn)`
+Time Complexity: `O(nlogn)`  
 Space Complexity: `O(1)`  
 
 ```python
